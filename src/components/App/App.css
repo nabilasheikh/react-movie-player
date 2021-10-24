@@ -1,0 +1,10 @@
+.home-page {
+  background-color: #06111f;
+}
+.main-content {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding:4%;
+  padding-top: max(32px, 4%);
+}

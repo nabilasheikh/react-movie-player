@@ -1,0 +1,23 @@
+.poster-name{
+    font-family: Quattro News;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cards-title{
+    font-family: Quattro News;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width : 500px){
+    .poster-name{
+    font-size: 13px;
+    line-height: 20px;
+    }
+}
